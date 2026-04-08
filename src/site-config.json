@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Olathe Garage Door Repair",
+    "phone": "+19132959408",
+    "category": "garage door repair",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Garage Door Experts",
+      "heroSubline": "Olathe Garage Door Repair: Reliable service, guaranteed quality. Call us for fast, expert repairs across Kansas City.",
+      "aboutTitle": "Your Trusted Kansas City Garage Door Partner",
+      "aboutText": [
+        "Olathe Garage Door Repair was founded over a decade ago right here in the Kansas City metro area. We saw a need for honest, dependable garage door service that homeowners could truly rely on, especially with our unpredictable weather.",
+        "Our approach is simple: treat every customer like a neighbor. We provide upfront pricing, explain all your options clearly, and stand behind our work. We're not about quick fixes; we're about lasting solutions that protect your home and family.",
+        "We're deeply invested in the Kansas City community. We regularly donate time and resources to local charities and support initiatives that help keep our neighborhoods strong. When you choose us, you're choosing a company that cares about KC."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Garage door problems don't wait for business hours. We're available around the clock to handle emergencies."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team is highly trained and experienced in all aspects of garage door repair and installation."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Quality Parts",
+          "description": "We use only the highest quality parts and materials to ensure lasting performance and reliability."
+        }
+      ],
+      "ctaHeadline": "Need Garage Door Help?",
+      "ctaSubline": "Call Olathe Garage Door Repair for fast, reliable service across the Kansas City metro area."
+    },
+    "services": [
+      {
+        "slug": "garage-door-spring-repair",
+        "name": "Garage Door Spring Repair",
+        "shortDescription": "Fast, reliable spring repair to get your garage door moving again.",
+        "description": "Garage door springs are under immense tension and can be extremely dangerous to handle without the proper training and tools. Don't risk injury attempting DIY repairs. Our experienced technicians can quickly and safely diagnose spring issues, whether it's a broken torsion spring or a worn-out extension spring. We carry a full range of high-quality replacement springs designed to withstand the rigors of Kansas City's climate, including our freeze-thaw cycles that can weaken metal over time.\n\nWe'll assess the condition of your springs, recommend the appropriate replacement, and ensure proper tensioning for smooth and balanced door operation. We also inspect related components like cables and rollers to identify any potential problems that could lead to future spring failures. With our expert spring repair service, you can rest assured that your garage door will operate safely and reliably for years to come.\n\nIgnoring a broken spring can put undue stress on your opener and other door components. Call us immediately for prompt and professional spring repair.",
+        "process": [
+          "Step 1: Safety Inspection - Evaluate the door and spring system.",
+          "Step 2: Spring Replacement - Install high-quality, durable springs.",
+          "Step 3: Tension Adjustment - Ensure proper balance and smooth operation.",
+          "Step 4: System Check - Verify safety features and overall performance."
+        ],
+        "benefits": [
+          "Safe and reliable operation",
+          "Extended lifespan of your garage door",
+          "Prevention of further damage",
+          "Peace of mind knowing the job is done right"
+        ],
+        "faq": [
+          {
+            "question": "How long do garage door springs typically last?",
+            "answer": "Garage door springs typically last between 7 to 12 years, depending on usage and maintenance. Regular lubrication and inspection can help extend their lifespan."
+          },
+          {
+            "question": "Why is it important to replace both springs at the same time?",
+            "answer": "Replacing both springs at the same time ensures balanced operation and prevents premature failure of the older spring. It also saves on future labor costs."
+          },
+          {
+            "question": "Can I replace garage door springs myself?",
+            "answer": "Replacing garage door springs is extremely dangerous due to the high tension involved. It's best to hire a trained professional to avoid serious injury."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Troubleshooting and repair for all major garage door opener brands.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience and security risk. Our technicians are experts in diagnosing and repairing all types of openers, including chain drive, belt drive, and screw drive models. We work with all major brands, including Chamberlain, LiftMaster, Genie, and more.\n\nWe'll troubleshoot the problem, whether it's a faulty motor, broken sensors, remote control issues, or a misaligned track. We carry a wide range of replacement parts to ensure quick and efficient repairs. We also offer opener maintenance services to keep your system running smoothly and prevent future problems. Living in the Kansas City area, we understand the importance of a working garage, especially during the winter months. \n\nFrom simple adjustments to complete opener replacements, we've got you covered. Don't let a broken opener disrupt your day. Call us for fast, reliable repair service.",
+        "process": [
+          "Step 1: Diagnostic Assessment - Identify the root cause of the opener malfunction.",
+          "Step 2: Component Repair/Replacement - Replace faulty parts with quality components.",
+          "Step 3: System Calibration - Adjust settings for optimal performance.",
+          "Step 4: Safety Check - Verify safety features and overall functionality."
+        ],
+        "benefits": [
+          "Restored convenience and security",
+          "Extended lifespan of your opener",
+          "Prevention of further damage",
+          "Quiet and smooth operation"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door opener needs repair or replacement?",
+            "answer": "Common signs include unusual noises, slow operation, intermittent failures, and complete breakdowns. If your opener is over 10 years old and experiencing frequent issues, it may be time for a replacement."
+          },
+          {
+            "question": "What are the benefits of upgrading to a smart garage door opener?",
+            "answer": "Smart openers offer features like smartphone control, remote monitoring, and integration with other smart home devices. They also provide enhanced security and convenience."
+          },
+          {
+            "question": "How often should I have my garage door opener serviced?",
+            "answer": "We recommend servicing your garage door opener at least once a year to ensure smooth operation and prevent potential problems. Regular maintenance can also extend the lifespan of your opener."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Expert repair and replacement of frayed or broken garage door cables.",
+        "description": "Garage door cables play a critical role in lifting and lowering your door safely and efficiently. When cables become frayed, worn, or broken, it can create a dangerous situation. Our technicians are trained to handle cable repairs with precision and care. We'll inspect the cables for signs of wear, assess the overall condition of the door, and recommend the appropriate repair or replacement.\n\nWe use only high-quality cables designed to withstand the heavy loads and constant use of garage doors. We also ensure proper tensioning and alignment for smooth and balanced operation. Ignoring damaged cables can lead to serious accidents and further damage to your door and opener. Living in Kansas City, the weather can cause cables to corrode faster than other areas. \n\nDon't risk your safety. Call us for fast, reliable cable repair service.",
+        "process": [
+          "Step 1: Safety Assessment - Disconnect power and secure the door.",
+          "Step 2: Cable Replacement - Install new, high-strength cables.",
+          "Step 3: Tension Adjustment - Ensure proper cable tension and balance.",
+          "Step 4: Operational Test - Verify smooth and safe door operation."
+        ],
+        "benefits": [
+          "Safe and reliable operation",
+          "Prevention of accidents and injuries",
+          "Extended lifespan of your garage door",
+          "Smooth and balanced door movement"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door cables need to be replaced?",
+            "answer": "Signs of cable damage include fraying, rust, visible breaks, and uneven door movement. If you notice any of these issues, it's important to have your cables inspected by a professional."
+          },
+          {
+            "question": "Can I replace garage door cables myself?",
+            "answer": "Replacing garage door cables can be dangerous due to the high tension involved. It's best to hire a trained professional to avoid serious injury."
+          },
+          {
+            "question": "How often should I have my garage door cables inspected?",
+            "answer": "We recommend having your garage door cables inspected at least once a year to ensure they are in good condition and properly tensioned. Regular inspection can help prevent unexpected failures."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-roller-replacement",
+        "name": "Garage Door Roller Replacement",
+        "shortDescription": "Quiet, durable roller replacements for smooth garage door operation.",
+        "description": "Worn-out or damaged garage door rollers can cause noisy operation, jerky movement, and even damage to your tracks. Our technicians can quickly and easily replace your old rollers with high-quality, durable replacements. We offer a variety of roller types, including nylon, steel, and polyurethane, to suit your specific needs and preferences.\n\nNew rollers can dramatically improve the smoothness and quietness of your garage door operation. They also reduce stress on your opener and other door components. We'll ensure proper alignment and lubrication for optimal performance. Ignoring worn rollers can lead to more serious problems down the road, such as damaged tracks or a broken door. Given the age of many homes in Kansas City, MO, it is not uncommon to find outdated or damaged rollers.\n\nDon't put up with a noisy, inefficient garage door. Call us for professional roller replacement service.",
+        "process": [
+          "Step 1: Door Stabilization - Secure the door to prevent movement during the process.",
+          "Step 2: Roller Removal - Carefully remove old and worn rollers.",
+          "Step 3: New Roller Installation - Install new, high-quality rollers.",
+          "Step 4: Track Inspection - Ensure proper alignment and smooth operation."
+        ],
+        "benefits": [
+          "Quiet and smooth operation",
+          "Reduced stress on opener and other components",
+          "Extended lifespan of your garage door",
+          "Improved safety and reliability"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door rollers need to be replaced?",
+            "answer": "Common signs include noisy operation, jerky movement, visible wear, and rollers that are cracked or broken. If you notice any of these issues, it's time for a replacement."
+          },
+          {
+            "question": "What type of garage door rollers are best?",
+            "answer": "Nylon rollers are typically quieter than steel rollers, while polyurethane rollers offer a good balance of durability and noise reduction. The best type for you will depend on your specific needs and preferences."
+          },
+          {
+            "question": "How often should I lubricate my garage door rollers?",
+            "answer": "We recommend lubricating your garage door rollers every 6 months to ensure smooth operation and prevent premature wear. Use a silicone-based lubricant for best results."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-track-repair",
+        "name": "Garage Door Track Repair",
+        "shortDescription": "Realignment and repair of bent or damaged garage door tracks.",
+        "description": "Bent or misaligned garage door tracks can cause serious problems, including noisy operation, jerky movement, and even complete door failure. Our technicians are skilled in diagnosing and repairing all types of track issues. We'll assess the damage, realign the tracks, and repair or replace any damaged sections.\n\nWe use specialized tools and techniques to ensure precise alignment and smooth operation. We also inspect related components like rollers and hinges to identify any potential problems that could contribute to track damage. Ignoring track problems can lead to more serious and costly repairs down the road. Kansas City's climate can contribute to track issues.\n\nDon't let damaged tracks compromise the safety and reliability of your garage door. Call us for professional track repair service.",
+        "process": [
+          "Step 1: Damage Assessment - Identify the extent of the track damage.",
+          "Step 2: Track Realignment - Correctly align the tracks to ensure smooth operation.",
+          "Step 3: Repair/Replacement - Repair or replace damaged track sections.",
+          "Step 4: Operational Test - Verify smooth and safe door operation."
+        ],
+        "benefits": [
+          "Smooth and reliable operation",
+          "Prevention of further damage",
+          "Extended lifespan of your garage door",
+          "Improved safety and security"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door tracks need repair?",
+            "answer": "Common signs include noisy operation, jerky movement, visible bends or dents, and doors that are difficult to open or close. If you notice any of these issues, it's important to have your tracks inspected by a professional."
+          },
+          {
+            "question": "Can I repair garage door tracks myself?",
+            "answer": "Repairing garage door tracks can be dangerous due to the weight and complexity of the door system. It's best to hire a trained professional to avoid serious injury."
+          },
+          {
+            "question": "How often should I have my garage door tracks inspected?",
+            "answer": "We recommend having your garage door tracks inspected at least once a year to ensure they are properly aligned and in good condition. Regular inspection can help prevent unexpected failures."
+          }
+        ]
+      },
+      {
+        "slug": "new-garage-door-installation",
+        "name": "New Garage Door Installation",
+        "shortDescription": "Professional installation of new garage doors, tailored to your home.",
+        "description": "Upgrade your home's curb appeal and security with a new garage door. We offer a wide selection of styles, materials, and colors to suit your taste and budget. Our experienced technicians will handle the entire installation process, from removing your old door to ensuring proper operation of your new one.\n\nWe work with all major brands and can help you choose the perfect door for your home. Whether you're looking for a traditional steel door, a modern glass door, or a durable wood door, we've got you covered. We also offer a variety of insulation options to improve energy efficiency and reduce noise. Serving the Kansas City community, we can help you pick a style that fits the neighborhood.\n\nFrom initial consultation to final inspection, we'll ensure a smooth and hassle-free installation experience. Call us today to schedule a free estimate.",
+        "process": [
+          "Step 1: Consultation & Selection - Choose the perfect door for your home.",
+          "Step 2: Old Door Removal - Safely remove and dispose of your old door.",
+          "Step 3: New Door Installation - Professionally install your new garage door.",
+          "Step 4: Final Inspection - Verify proper operation and safety features."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Improved security",
+          "Increased home value",
+          "Energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How much does a new garage door installation cost?",
+            "answer": "The cost of a new garage door installation varies depending on the style, material, and features you choose. We offer free estimates to provide you with an accurate price."
+          },
+          {
+            "question": "What are the benefits of an insulated garage door?",
+            "answer": "Insulated garage doors can help reduce energy costs, minimize noise, and improve the overall comfort of your home. They are a great option for attached garages or homes in cold climates."
+          },
+          {
+            "question": "How long does a garage door installation take?",
+            "answer": "Most garage door installations can be completed in a single day. However, the exact time will depend on the complexity of the project and the type of door being installed."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-garage-door-repair",
+        "name": "24/7 Emergency Garage Door Repair",
+        "shortDescription": "Fast response for urgent garage door issues, day or night.",
+        "description": "Garage door emergencies can happen at any time, and they often require immediate attention. That's why we offer 24/7 emergency repair services to homeowners in the Kansas City area. Whether it's a broken spring, a malfunctioning opener, or a door that's stuck open, we're here to help.\n\nOur experienced technicians will arrive quickly, assess the problem, and provide a fast and effective solution. We understand the importance of restoring your garage door to proper working order as quickly as possible, especially when your security and safety are at stake. Kansas City weather can cause a lot of damage, and we are prepared to serve you.\n\nDon't hesitate to call us any time, day or night, for emergency garage door repair service.",
+        "process": [
+          "Step 1: Immediate Dispatch - Rapid response to your emergency call.",
+          "Step 2: On-Site Assessment - Identify the problem and provide a solution.",
+          "Step 3: Emergency Repair - Quickly restore your garage door's functionality.",
+          "Step 4: Safety Check - Ensure the door is safe and secure."
+        ],
+        "benefits": [
+          "Fast response time",
+          "24/7 availability",
+          "Expert diagnosis and repair",
+          "Restored security and peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a garage door emergency?",
+            "answer": "A garage door emergency includes situations like a broken spring, a malfunctioning opener, a door that's stuck open, or any other issue that compromises your safety and security."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within 1-2 hours, depending on your location and our current workload."
+          },
+          {
+            "question": "What should I do while waiting for the technician to arrive?",
+            "answer": "While waiting for the technician, ensure that the area around the garage door is clear and safe. Do not attempt to operate the door yourself, as this could cause further damage or injury."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Olathe Garage Door Repair is proud to provide expert garage door services to Overland Park, a vibrant city known for its established suburban neighborhoods dating back to the 1970s and 90s. We understand the specific needs of homeowners in Overland Park, from older, well-maintained garage doors to newer models needing occasional repairs or upgrades. Our team is experienced in working with a wide range of garage door styles and brands commonly found in Overland Park homes.\n\nWe know that Overland Park residents value quality and reliability, especially when facing the challenges of Kansas City's climate. Icy winters can put extra stress on garage door mechanisms, leading to malfunctions or damage. Olathe Garage Door Repair is committed to providing prompt and efficient service to ensure your garage door operates smoothly throughout the year. Whether you need a simple repair, a complete door replacement, or routine maintenance, we're here to help.",
+        "localContext": "Overland Park is a large suburban city in Johnson County, Kansas known for its excellent schools, parks, and family-friendly environment. Many homes were built between the 1970s and 1990s.",
+        "nearbyAreas": [
+          "Olathe",
+          "Leawood",
+          "Lenexa"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Olathe Garage Door Repair is your local expert for all garage door needs in Olathe. As our namesake city, we're deeply committed to providing the best possible service to our neighbors. Olathe is a growing community with many family-oriented developments built between the 1980s and 2000s. We have extensive experience servicing the garage door styles and models commonly found in these homes.\n\nWe understand that Olathe families rely on their garage doors for security and convenience. We offer a full range of services, from routine maintenance and repairs to complete garage door replacements. We are prepared to handle the challenges posed by the cold winters and occasional ice storms that affect Olathe homes each year. We use only high-quality parts and materials to ensure lasting performance and reliability.",
+        "localContext": "Olathe is a rapidly growing city in Johnson County, Kansas, characterized by its numerous family-oriented housing developments built from the 1980s through the 2000s.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Lenexa",
+          "Gardner"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Olathe Garage Door Repair extends its expert services to Lee's Summit, a thriving community with a mix of established neighborhoods and newer developments. We understand the unique needs of Lee's Summit homeowners, many of whom reside in homes built between the 1970s and 1990s. Our team is skilled in servicing a wide variety of garage door styles and brands common in the area.\n\nWe know that Lee's Summit residents value prompt and reliable service, especially when dealing with the unpredictable weather of the Kansas City area. Freezing temperatures and ice storms can cause significant stress on garage door components. Olathe Garage Door Repair is dedicated to providing efficient and effective solutions to keep your garage door functioning smoothly throughout the year. Whether you require a minor repair, a complete replacement, or routine maintenance, we're here to help.",
+        "localContext": "Lee's Summit is a large city in Jackson County, Missouri, known for its blend of established neighborhoods and newer developments, with a significant portion of homes built in the 1970s and 1990s.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Olathe Garage Door Repair provides comprehensive garage door services to the residents of Lenexa, a dynamic city known for its blend of residential and commercial areas. We understand the diverse needs of Lenexa homeowners and businesses, and we are equipped to handle a wide range of garage door systems. Whether you have a traditional residential garage door or a heavy-duty commercial door, our team has the expertise to provide the services you need.\n\nLenexa experiences the full range of Kansas City weather, including cold winters and occasional ice storms. These conditions can put a strain on garage door mechanisms, leading to malfunctions or damage. Olathe Garage Door Repair is committed to providing prompt and reliable service to ensure that your garage door operates smoothly year-round. From routine maintenance to emergency repairs, we are here to help.",
+        "localContext": "Lenexa is a city in Johnson County, Kansas, characterized by a mix of residential and commercial areas, experiencing the full spectrum of Kansas City weather.",
+        "nearbyAreas": [
+          "Olathe",
+          "Overland Park",
+          "Shawnee"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "Olathe Garage Door Repair offers expert garage door services in Shawnee, a city with a rich history and diverse housing stock. We understand the unique needs of Shawnee homeowners, from older homes with traditional garage doors to newer homes with modern systems. Our team is experienced in working with a wide variety of garage door styles and brands commonly found in the area.\n\nWe know that Shawnee residents value quality and reliability, especially when facing the challenges of Kansas City's climate. Icy winters can put extra stress on garage door mechanisms, leading to malfunctions or damage. Olathe Garage Door Repair is committed to providing prompt and efficient service to ensure your garage door operates smoothly throughout the year. Whether you need a simple repair, a complete door replacement, or routine maintenance, we're here to help.",
+        "localContext": "Shawnee is a city in Johnson County, Kansas, known for its rich history and diverse housing options.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Overland Park",
+          "Kansas City"
+        ]
+      },
+      {
+        "city": "Gardner",
+        "slug": "gardner-mo",
+        "state": "MO",
+        "content": "Olathe Garage Door Repair is pleased to serve the growing community of Gardner with reliable and affordable garage door services. As a rapidly expanding city, Gardner features a mix of new construction and established neighborhoods. We are familiar with the range of garage door styles and models found in Gardner homes, and we are equipped to handle any repair or installation need.\n\nWe understand that Gardner residents value prompt and efficient service, especially when dealing with the challenges of Kansas City weather. Cold winters and occasional ice storms can cause significant stress on garage door components. Olathe Garage Door Repair is dedicated to providing effective solutions to keep your garage door functioning smoothly throughout the year. Whether you require a minor repair, a complete replacement, or routine maintenance, we're here to help.",
+        "localContext": "Gardner is a rapidly growing city in Johnson County, Kansas, known for its mix of new construction and established residential areas.",
+        "nearbyAreas": [
+          "Olathe",
+          "Edgerton",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Olathe Garage Door Repair proudly serves the residents of Blue Springs, offering expert garage door repair and installation services. Blue Springs is a thriving community known for its family-friendly atmosphere and diverse housing options. We understand the specific needs of Blue Springs homeowners and are experienced in servicing a wide variety of garage door styles and brands.\n\nWe know that Blue Springs residents rely on their garage doors for security and convenience. We offer a full range of services, from routine maintenance and repairs to complete garage door replacements. We are prepared to handle the challenges posed by the cold winters and occasional ice storms that affect Blue Springs homes each year. We use only high-quality parts and materials to ensure lasting performance and reliability.",
+        "localContext": "Blue Springs is a city in Jackson County, Missouri, known for its family-friendly environment and diverse housing options.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Independence",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Olathe Garage Door Repair extends its services to Independence, a city rich in history and known for its diverse architecture. We understand the unique needs of Independence homeowners, from historic homes with unique garage door designs to newer homes with modern systems. Our team is skilled in servicing a wide range of garage door styles and brands common in the area.\n\nWe know that Independence residents value prompt and reliable service, especially when dealing with the unpredictable weather of the Kansas City area. Freezing temperatures and ice storms can cause significant stress on garage door components. Olathe Garage Door Repair is dedicated to providing efficient and effective solutions to keep your garage door functioning smoothly throughout the year. Whether you require a minor repair, a complete replacement, or routine maintenance, we're here to help.",
+        "localContext": "Independence is a city in Jackson County, Missouri, known for its rich history and diverse architectural styles.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Kansas City",
+          "Raytown"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Garage Door Spring Repair",
+        "text": "Our garage door spring broke on a Saturday morning, and I was worried we'd be stuck all weekend. Olathe Garage Door Repair came out within an hour and had it fixed quickly. The technician was professional and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener stopped working, and I couldn't get my car out. Olathe Garage Door Repair diagnosed the problem quickly and replaced a faulty sensor. The price was reasonable, and the service was efficient.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "We recently had Olathe Garage Door Repair install a new garage door for our home in Brookside. The entire process was smooth and stress-free. The team was professional, knowledgeable, and the new door looks fantastic! It really updated the look of our house.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Garage Door Cable Repair",
+        "text": "One of the cables on my garage door snapped unexpectedly. I called Olathe Garage Door Repair, and they were able to come out the same day. The technician replaced the cable quickly and made sure everything was working properly. Great service!",
+        "date": "2024-12-08"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Garage Door Roller Replacement",
+        "text": "Our garage door was making a terrible screeching noise every time we opened or closed it. Olathe Garage Door Repair replaced the old rollers, and now it's so much quieter. The technician was friendly and did a great job.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Emergency Garage Door Repair",
+        "text": "I had a garage door emergency late at night, and Olathe Garage Door Repair was there within an hour. They quickly fixed the problem and secured my garage. I was so grateful for their prompt and reliable service.",
+        "date": "2025-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Olathe Garage Door Repair | KC",
+        "description": "Kansas City's trusted garage door repair. Fast, reliable service. Springs, openers, cables & new doors. Call now!"
+      },
+      "about": {
+        "title": "About Olathe Garage Door Repair",
+        "description": "Learn about Olathe Garage Door Repair's commitment to quality service in Kansas City. Expert repairs, local values."
+      },
+      "services": {
+        "title": "Garage Door Repair Services | KC",
+        "description": "Comprehensive garage door services in Kansas City. Spring repair, opener repair, cable replacement, and new door installation."
+      },
+      "contact": {
+        "title": "Contact Olathe Garage Door Repair",
+        "description": "Contact Olathe Garage Door Repair for fast, reliable service in Kansas City. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Olathe Garage Door Repair Reviews",
+        "description": "Read reviews from satisfied customers in Kansas City. See why we're the trusted choice for garage door repair."
+      },
+      "service-areas": {
+        "title": "Garage Door Service Areas | KC",
+        "description": "Olathe Garage Door Repair serves the entire Kansas City metro area. Find out if we service your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-spring-repair": "/images/service-garage-door-spring-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-roller-replacement": "/images/service-garage-door-roller-replacement.webp",
+      "garage-door-track-repair": "/images/service-garage-door-track-repair.webp",
+      "new-garage-door-installation": "/images/service-new-garage-door-installation.webp",
+      "emergency-garage-door-repair": "/images/service-emergency-garage-door-repair.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-spring-repair": {
+        "src": "/images/service-garage-door-spring-repair.webp",
+        "srcset": "/images/service-garage-door-spring-repair-400w.webp 400w, /images/service-garage-door-spring-repair-800w.webp 800w, /images/service-garage-door-spring-repair-1200w.webp 1200w, /images/service-garage-door-spring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-roller-replacement": {
+        "src": "/images/service-garage-door-roller-replacement.webp",
+        "srcset": "/images/service-garage-door-roller-replacement-400w.webp 400w, /images/service-garage-door-roller-replacement-800w.webp 800w, /images/service-garage-door-roller-replacement-1200w.webp 1200w, /images/service-garage-door-roller-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-track-repair": {
+        "src": "/images/service-garage-door-track-repair.webp",
+        "srcset": "/images/service-garage-door-track-repair-400w.webp 400w, /images/service-garage-door-track-repair-800w.webp 800w, /images/service-garage-door-track-repair-1200w.webp 1200w, /images/service-garage-door-track-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "new-garage-door-installation": {
+        "src": "/images/service-new-garage-door-installation.webp",
+        "srcset": "/images/service-new-garage-door-installation-400w.webp 400w, /images/service-new-garage-door-installation-800w.webp 800w, /images/service-new-garage-door-installation-1200w.webp 1200w, /images/service-new-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-garage-door-repair": {
+        "src": "/images/service-emergency-garage-door-repair.webp",
+        "srcset": "/images/service-emergency-garage-door-repair-400w.webp 400w, /images/service-emergency-garage-door-repair-800w.webp 800w, /images/service-emergency-garage-door-repair-1200w.webp 1200w, /images/service-emergency-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
